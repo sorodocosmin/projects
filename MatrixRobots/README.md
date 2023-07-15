@@ -1,6 +1,5 @@
-# Positional Game
-Consider a positional game played on board containing a number of dots placed on a circle. Some dots are connected to other dots using lines. Initially, the existing lines are gray (not colored).\
-Two players take turns coloring any uncolored lines. One player colors in one color (red), and the other colors in another color (blue).\
-Each player tries to create a triangle made solely of his color. The player who succeeds, wins the game.
-#### those 2 requirements images contain more details about the project
-### you can see a short demo [here](https://www.youtube.com/watch?v=jMZj6UKO2sE)
+# Matrix Robots
+This project involves designing and implementing a simulation of robot exploration in a map represented as an n x n square matrix. The goal is for multiple robots to explore all the cells of the matrix, starting from random positions. The robots can move in any direction within the map but cannot occupy the same cell simultaneously.\
+The exploration is simulated using threads, with synchronization mechanisms in place for token extraction and cell visits. The implementation includes commands to control the robots' movements, such as starting, pausing, or resuming individual robots or all of them. Additionally, an algorithm is needed to ensure systematic exploration of the map, guaranteeing the termination of the exploration process(see [here](https://github.com/sorodocosmin/projects/blob/main/MatrixRobots/Lab7-Week7-GUI/model_neighbours.png) a simple representation of the algorithm)
+#### you can check the requirements image to see more details about the project aand how it is implemented
+### you can see a short demo [here](https://www.youtube.com/watch?v=6wZenV5ZNSo)
