@@ -5,5 +5,5 @@ The exploration is simulated using threads, with synchronization mechanisms in p
 ---
 ### you can see a short demo [here](https://www.youtube.com/watch?v=6wZenV5ZNSo)
 ---
-Screenshot taken from the demo:
+Screenshot took from the demo:
 ![image](https://github.com/sorodocosmin/projects/assets/61987774/c860bf2d-44e9-483e-ac1a-f7575657907f)
