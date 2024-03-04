@@ -4,4 +4,9 @@
 - _The client component_, implemented in the ...-Client project, allows players to connect to the server and interact with the game. Players can join existing games, create new games, and submit their moves. The client provides a user-friendly interface, allowing players to input commands and receive game updates. The game continues until one player achieves five pieces in a row or until a player's time runs out.
 
 #### those 2 requirements images contain more details about the project
+---
 ### you can see a short demo [here](https://www.youtube.com/watch?v=gSM3RZZtqhM)
+---
+Screenshot taken from demo:
+![image](https://github.com/sorodocosmin/projects/assets/61987774/2d0ed958-e929-4732-aafe-1c21e0d53ffd)
+
