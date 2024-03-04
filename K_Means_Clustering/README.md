@@ -2,7 +2,11 @@
 ## Description
 
 The application clusters 2D points using the K-means algorithm. It offers flexibility in specifying distance functions, visualization options, and the maximum number of iterations.\
-**You can see a short demo** [**here**](https://www.youtube.com/watch?v=Vth2lBu7cVw).
+## **You can see a short demo** [**here**](https://www.youtube.com/watch?v=Vth2lBu7cVw).
+
+Screenshot took from the demo:
+![image](https://github.com/sorodocosmin/projects/assets/61987774/6efed1b4-b223-4de8-9a9d-7d74d5327f26)
+
 
 ## Usage
 
