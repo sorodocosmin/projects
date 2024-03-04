@@ -7,6 +7,6 @@
 ---
 ### you can see a short demo [here](https://www.youtube.com/watch?v=gSM3RZZtqhM)
 ---
-Screenshot taken from demo:
+Screenshot took from demo:
 ![image](https://github.com/sorodocosmin/projects/assets/61987774/2d0ed958-e929-4732-aafe-1c21e0d53ffd)
 
